@@ -1,5 +1,5 @@
 # Msc-Coursework-AML
-Coursework in Quantitative Finance MSc
+Coursework in Quantitative Finance MSc for Applied Machine Learning
 All coursework contained gained me a 100% pass mark within the module. 
 
 Covering topics from:
